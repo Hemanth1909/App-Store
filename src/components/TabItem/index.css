@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.single-tab-item {
+  margin-right: 15px;
+  color: #7b8794;
+  border: none;
+  list-style-type: none;
+}
+
+.active-tab {
+  color: #2563eb;
+  font-weight: bold;
+  border-bottom: #2563eb solid;
+  padding-bottom: 8px;
+}
+
+.single-tab-item {
+  list-style-type: none;
+}
